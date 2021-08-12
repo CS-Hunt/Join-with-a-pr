@@ -9,7 +9,7 @@ Some of our core beliefs are:
 * Reduce the amount of time you spend seeking and instead spend more time studying, talking, and interacting.
 * To build a community where everybody, regardless of where they live on the planet, may participate.
 
-This repo have been seen by ![Visitor Count](https://profile-counter.glitch.me/{CS-Hunt/Join-with-a-pr}/count.svg)people!
+This repo have been seen by [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCS-Hunt%2FJoin-with-a-pr%2Fhit-counter&count_bg=%23594867&title_bg=%233765B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)people!
 
 ## How do I join?
 
