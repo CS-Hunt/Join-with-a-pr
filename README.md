@@ -37,7 +37,7 @@ One such method is to inform us through a problem. The greatest way to demonstra
 
 ## Volunteering & Sponsorship
 
-- If you'd like to **[volunteer](https://github.com/CS-Hunt/Join-with-a-pr/master/VOLUNTEERS.md)** or engage with existing volunteers who run Get Placed on any aspect that generally concerns the StudyGroup,
+- If you'd like to **[volunteer](https://github.com/CS-Hunt/Join-with-a-pr/blob/master/VOLUNTEERS.md)** or engage with existing volunteers who run Get Placed on any aspect that generally concerns the StudyGroup,
 
 ## Contact
 
